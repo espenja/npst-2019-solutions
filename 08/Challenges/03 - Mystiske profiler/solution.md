@@ -29,3 +29,9 @@ Vi dytter disse inn i en [morse2ascii-oversetter](http://www.unit-conversion.inf
 ```json
 Flagg: PST{e06h31d19ff020a479h20ef28c8d1e2c}
 ```
+
+## Easter egg
+
+Profilbildet til Pen Gwyn inneholder et bilde med en ny lapp
+
+![./assets/pen_gwyn_large](./assets/pen_gwyn_large.jpg)

@@ -1,0 +1,9 @@
+Passordet må inneholde minst ett tegn fra hver av de følgende gruppene:
+ - [a-z]
+ - [A-Z]
+ - [0-9]
+ - [*@!#%&()^~{}]
+
+Tegnene i passordet må skrives i stigende ASCII-verdi.
+
+Summen av ASCII-verdier modulo 128 må være lik 24.

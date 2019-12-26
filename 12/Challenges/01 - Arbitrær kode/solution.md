@@ -35,7 +35,7 @@ eval.js
 Mappen inneholder altså bare denne ene Javascript-filen. Vi sjekker ut innholdet i denne med kommandoen
 
 ```javascript
-require("fs").readfileSync("./eval.js");
+require("fs").readFileSync("./eval.js");
 ```
 
 <p>

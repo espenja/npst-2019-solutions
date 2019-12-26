@@ -15,10 +15,10 @@ Det første vi må gjøre er å finne passordet til arkiv-filene, og oppgaveteks
 Formatet på zippen er rimelig annoying, for her har vi zip-filer nøstet i zip-filer nøstet i zip-filer og det vil ingen ende ta. Her finnes det
 sikkert en fancy command som kan unzippe rekursivt innover i zip-filen, men vi åpnet den bare i 7zip og nøstet oss gjennom ganske kjapt manuelt og hentet ut de filene som finnes. Vi satt da igjen med disse filene
 
--   [./assets/2019-12-07.access.log](./assets/2019-12-07.access.log)
--   [./assets/2019-12-08.access.log](./assets/2019-12-08.access.log)
--   [./assets/2019-12-09.access.log](./assets/2019-12-09.access.log)
--   [./assets/2019-12-10.access.log](./assets/2019-12-10.access.log)
+-   `2019-12-07.access.log`
+-   `2019-12-08.access.log`
+-   `2019-12-09.access.log`
+-   `2019-12-10.access.log`
 
 Kombinert har disse loggfilene `184 579` + `247 215` + `352 159` + `247 125` === `1 031 078` linjer logg, og i denne myriaden skal vi altså finne en API-nøkkel som er kompromitert!
 

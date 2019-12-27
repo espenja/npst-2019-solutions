@@ -22,6 +22,8 @@ sikkert en fancy command som kan unzippe rekursivt innover i zip-filen, men vi �
 
 Kombinert har disse loggfilene `184 579` + `247 215` + `352 159` + `247 125` === `1 031 078` linjer logg, og i denne myriaden skal vi altså finne en API-nøkkel som er kompromitert!
 
+![./assets/screen1](./assets/screen1.png)
+
 ### Steg 1
 
 Vi prøver først å finne ut hvordan en API-nøkkel, eller en Token, ser ut. Dette finner vi raskt, da det er veldig mange kall til nettsiden som inneholder `jw_token=<guid>`, for eksempel `jw_token=66eba1aea8fe6bb5c3d9c85034884c2c`

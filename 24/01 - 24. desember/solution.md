@@ -40,13 +40,13 @@ Heldigvis er vi godt forberedt, for opp igjennom julekalenderen har det dukket o
 
 ![./assets/huskelapp.png](./assets/huskelapp.png)
 
-**Fra 22. desember, &nbsp**
+**Fra 22. desember, 95728ce2159815f2e2a253c664b2493f.png**
 
 ![./assets/95728ce2159815f2e2a253c664b2493f.png](./assets/95728ce2159815f2e2a253c664b2493f.png)
 
 Setter vi disse i sammenheng har vi nemlig innstillingene vi trenger for å dekode den krypterte meldingen. Vi antar at notatlappene har blitt gitt i den rekkefølgen de har blitt tilgjengeliggjort for oss, mest på grunn av at de sammensatt skaper setningen `PSTFTW` 😎
 
-Vi åpner opp [https://gchq.github.io/](https://gchq.github.io/) igjen, og drar inn `Enigma-modulen` fra `Encryption / Encoding`-kategorien
+Vi åpner opp [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/) igjen, og drar inn `Enigma-modulen` fra `Encryption / Encoding`-kategorien
 
 - Left-hand rotor settes til rotor `IV`
   - Left-hand rotor ring setting settes til `P`
@@ -59,6 +59,8 @@ Vi åpner opp [https://gchq.github.io/](https://gchq.github.io/) igjen, og drar 
   - Right-hand rotor initual value settes til `W`
 - Plugboard settes til `CO NG RA TS`
 
+[Link til ferdig oppsatt Enigmamaskin](https://gchq.github.io/CyberChef/#recipe=Enigma('3-rotor','LEYJVCNIXWPBQMDRTAKZGFUHOS','A','A','ESOVPZJAYQUIRHXLNFTGKDCMWB%3CK','P','S','NZJHGRCXMYSWBOUFAIVLPEKQDT%3CAN','T','F','NZJHGRCXMYSWBOUFAIVLPEKQDT%3CAN','T','W','AY%20BR%20CU%20DH%20EQ%20FS%20GL%20IP%20JX%20KN%20MO%20TZ%20VW','CO%20NG%20RA%20TS',true)&input=U0FYVkMgT0lXUFQgR1FPSlogT1hFSEkgWlZDV1UgTkNDT1cgRklLVlAgTk9FTlQgQ0VUQVUgSUtQQ00gWkxPWVAgQkpIRUMgS1BFWEcgUkpXRE8gREpCQkkgSFFEVEcgRkZCUVYgTEpBWkMgWk9GSUMgWkFJV0ogUUVWQ0wgRlhBVkMgUERVV1QgR0JJR00gU1NXQU8gT1hKSFAgUExLWEggVEdRQVkgQ09JUUwgWlNXSUwgSEtNWVIgWU1QWlogUFRJRUwgUFNSSVAgWVZSS0MgRElOQlIgV0paSlAgSEhOWE0gSEdZV04gWFhJR0IgVVRUT1ggQUVQS1ogVFVDTUMgTUdGSEMgV0hTQVkgS0ZWVlMgUERCRkUgS0FCQUIgUE5CVlIgSVpHVFggUEVSSlogR0RIUUogSkRVWVYgRkFPWVYgSldaT1UgV1hYUFIgSFZETEwgQlFUSkkgSFVMUVAgQUNJWEcgTlVQVVMgUENLSFQgTE9LTE4gWkNMWk8gUVZXU0wgSFBCV0QgQVRaRVMgSkVJVE0gQUpJRlUgU0lWVkYgUEhQRU4gVVlIWksgQVdJWlkgTU5RTEggWlZLSkogRUVZU1ogTExVRU0gTlpBRkEgT1pYWUwgV0JSUFggSlVLUUcgS0lFWFggQ0RZQVQgSUhWSksgSE9NR0kgVVZBT1EgUEJYUk4gSEFBV0cgWE9CQVogVUlMSkIgS1lTQlAgSU9CS0ggR1laQkQgSVBRTkcgVlNVVFMgWVhPR1kgS0VJS0sgVElLS1EgUkZWV1EgTkJDRUsgVElKTEMgQ1hSREIgVFVOWFQgU0JLV1IgWURCUg)
+
 ![./assets/screen2](./assets/screen2.png)
 
 Resultatet:
@@ -69,7 +71,8 @@ Her trekker vi bare sammen teksten og erstatter bare `ZERO` med `0`, `ONE` med `
 
     50696767206176210A496E67656E20626F6B737461766B6A656B732E0A4C65742069206865782070C3A52066C3B86C67656E64652072656765783A205B5C64612D665D7B327D5C2E737073745C2E6E6F
 
-Vi kjører dette kjapt inn i `From Hex`-modulen i CyberChef
+Vi kjører dette kjapt inn i `From Hex`-modulen i CyberChef.
+[Link til ferdig oppsatt hex-modul](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=NTA2OTY3NjcyMDYxNzYyMTBBNDk2RTY3NjU2RTIwNjI2RjZCNzM3NDYxNzY2QjZBNjU2QjczMkUwQTRDNjU3NDIwNjkyMDY4NjU3ODIwNzBDM0E1MjA2NkMzQjg2QzY3NjU2RTY0NjUyMDcyNjU2NzY1NzgzQTIwNUI1QzY0NjEyRDY2NUQ3QjMyN0Q1QzJFNzM3MDczNzQ1QzJFNkU2Rg)
 
 ![./assets/screen3](./assets/screen3.png)
 

@@ -179,6 +179,8 @@ Vi åpner opp [https://spst.no/8a2a8e12017977d9dbf0ed33e254e94e.txt](https://sps
 
 ![./assets/screen1](./assets/screen1.png)
 
+[Klikk for å laste ned tekstfil](./assets/8a2a8e12017977d9dbf0ed33e254e94e.txt)
+
 Tilsynelatende er det `404 Not Found`-siden til SPST. Åpner vi en hvilken som helst annen url får vi også dette resultatet. Æsj, det kan se ut som om vi er stuck. Og stuck var jeg lenge, helt til jeg oppdaget at URL-en vi fikk oppgitt ikke returnerer `404`, men faktisk gir `200 OK`! Hidden in plain(text) sight!
 
 Kikker vi på responsen i network-tabben finner vi dette

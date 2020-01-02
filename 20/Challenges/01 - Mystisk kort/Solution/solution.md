@@ -60,10 +60,11 @@ Under følger et eksempel på hvordan kolonne 1 og 4 på kortet leses ut, så sk
 
 ![./assets/screen4](./assets/screen4.png)
 
+                                 ✔️
     029  &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="¢.<(+|!$*);¬ ,%_>?
     IBME ¹-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#²'="].<(+|[$*);¬³,%_>?
     EBCD &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.<(+|]$*);^\,%_>?
-        ________________________________________________________________
+        _________________________|______________________________________
         /&-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZb#@'>V?.¤[<§!$*];^±,%v\¶
     12 / O           OOOOOOOOO   |                    OOOOOO            
     11|   O                   OOOOOOOOO                     OOOOOO      
@@ -83,6 +84,7 @@ Under følger et eksempel på hvordan kolonne 1 og 4 på kortet leses ut, så sk
 
 ![./assets/screen5](./assets/screen5.png)
 
+                                                         ✔️
     029  &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="¢.<(+|!$*);¬ ,%_>?
     IBME ¹-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#²'="].<(+|[$*);¬³,%_>?
     EBCD &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.<(+|]$*);^\,%_>?
@@ -95,7 +97,7 @@ Under følger et eksempel på hvordan kolonne 1 og 4 på kortet leses ut, så sk
      2|      O        O        O        O       O     O  |  O     O     
      3|       O        O        O        O       O     O |   O     O    
      4|        O        O        O        O       O     O|    O     O   
-     5|         O        O        O        O       O     O     O     O  
+     5|---------O--------O--------O--------O-------O-----O     O     O  
      6|          O        O        O        O       O    |O     O     O 
      7|           O        O        O        O       O   | O     O     O
      8|------------O--------O--------O--------O-OOOOOOOOOOOOOOOOOOOOOOOO

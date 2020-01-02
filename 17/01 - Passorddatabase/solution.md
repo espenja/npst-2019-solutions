@@ -59,10 +59,10 @@ Det viktige for oppgaven her er sikkert at folk ikke bare kan bruke `strings` fo
 
 Det viktigste finner vi lengre ned i `main`-funksjonen, når vi finner ut hvor programmet sammenligner passordet vi skriver inn med det programmet anser for å være det riktige passordet. Her finner vi også det meste vi trenger å vite:
 
--   Finner hvor programmet tar inn input
--   Finner hvor programmet sammenligner vår input med riktig passord
--   Finner hvor programmet viser "Feil, pigg av!"
--   Finner hvor programmet viser oss det riktige passordet
+- Finner hvor programmet tar inn input
+- Finner hvor programmet sammenligner vår input med riktig passord
+- Finner hvor programmet viser "Feil, pigg av!"
+- Finner hvor programmet viser oss det riktige passordet
 
 ![./assets/screen6](./assets/screen6.png)
 
@@ -104,8 +104,8 @@ loc_18F6:                   ; CODE XREF: main+1126⤴️
  main endp
 ```
 
--   For å finne passordet her trenger vi altså å lese ut minnet som ligger allokert på adresse `rbp-0x30`.
--   For å finne flagget trenger vi å lese ut minnet som ligger allokert på adresse `rbp-0x60`
+- For å finne passordet her trenger vi altså å lese ut minnet som ligger allokert på adresse `rbp-0x30`.
+- For å finne flagget trenger vi å lese ut minnet som ligger allokert på adresse `rbp-0x60`
 
 Vi fyrer opp [gdb](https://www.gnu.org/software/gdb/) med kommandoen `gdb p2w`.
 Herfra går vi inn i `asm mode` ved å skrive `layout asm`
@@ -114,5 +114,7 @@ Det vi leter etter her er en plass å sette breakpoint på, slik at vi kan dumpe
 Når vi har satt breakpoint kan vi kjøre programmet med `run`-kommandoen.
 Vi skriver inn vårt random passord når vi får beskjed om det, og blir så stoppet av debuggeren. Nå står vi fritt til å se på variabler, registere eller minne.
 Vi sjekker hvilken minneadresse RBP har først med `info register rbp`. Så dumper vi minnet i string-format med kommandoen `x/s <minneadresse>`. Vår kommando ender opp med å bli `x/s 0x7ffffffee320-0x90` for å finne passordet til programmet, `x/s 0x7ffffff320-0x30` for å finne passordet vi skrev inn, og til slutt `x/s 0x7ffffff320-0x60` for å finne flagget til oppgaven direkte
+
+#### Video av gdb-session
 
 [![NPST Passorddatabase debugging](./assets/screen7.png)](http://www.youtube.com/watch?v=imO9aNEP3Oc "NPST Passorddatabase debugging")

@@ -18,13 +18,13 @@ md5 av `Nettverksspesialist`: `0844d949169d24679a1f0438f89c69e3`
 
 ### Faktisk løsning
 
-En som klarte å løse den programmatisk, derimot, var @ciphr#9144 på Discord-serveren der folk samlet seg etter hvert for å sosialisere rundt CTF-en. Med tillatelse legger jeg ved koden her:
+En som klarte å løse den programmatisk, derimot, var @ciphr#9144 på Discord-serveren der folk samlet seg etter hvert for å sosialisere rundt CTF-en. Med tillatelse legger jeg ved koden [her](./assets/decode_dtmf_from_rtp_event.py.py):
 
 ```python
 # decode_dtmf_from_rtp_event.py
 import sys, os, binascii
 from scapy.all import *
- 
+
 packets = rdpcap('undecoded.pcap')
 tones={}
 for pkt in packets:
@@ -37,7 +37,7 @@ for pkt in packets:
       # tone is first 8bit
       if rtp.timestamp not in tones:
         tones[rtp.timestamp] = int(binascii.hexlify(payload[0]), 16)
- 
+
 print("DTMF tones: %s" % "".join([str(tones[x]) for x in sorted(tones.keys())]))
 ```
 

@@ -1,0 +1,1282 @@
+[
+  {
+    "cname": "cf.spst.no",
+    "txt": "c",
+    "site": "00.spst.no"
+  },
+  {
+    "cname": "91.spst.no",
+    "txt": "e",
+    "site": "01.spst.no"
+  },
+  {
+    "cname": "42.spst.no",
+    "txt": "W",
+    "site": "02.spst.no"
+  },
+  {
+    "cname": "45.spst.no",
+    "txt": "3",
+    "site": "03.spst.no"
+  },
+  {
+    "cname": "48.spst.no",
+    "txt": "0",
+    "site": "04.spst.no"
+  },
+  {
+    "cname": "17.spst.no",
+    "txt": "l",
+    "site": "05.spst.no"
+  },
+  {
+    "cname": "11.spst.no",
+    "txt": "4",
+    "site": "06.spst.no"
+  },
+  {
+    "cname": "93.spst.no",
+    "txt": "k",
+    "site": "07.spst.no"
+  },
+  {
+    "cname": "20.spst.no",
+    "txt": "J",
+    "site": "08.spst.no"
+  },
+  {
+    "cname": "75.spst.no",
+    "txt": "1",
+    "site": "09.spst.no"
+  },
+  {
+    "cname": "a4.spst.no",
+    "txt": "w",
+    "site": "0a.spst.no"
+  },
+  {
+    "cname": "fe.spst.no",
+    "txt": "G",
+    "site": "0b.spst.no"
+  },
+  {
+    "cname": "41.spst.no",
+    "txt": "6",
+    "site": "0c.spst.no"
+  },
+  {
+    "cname": "13.spst.no",
+    "txt": "L",
+    "site": "0d.spst.no"
+  },
+  {
+    "cname": "c9.spst.no",
+    "txt": "H",
+    "site": "0e.spst.no"
+  },
+  {
+    "cname": "53.spst.no",
+    "txt": "A",
+    "site": "0f.spst.no"
+  },
+  {
+    "cname": "47.spst.no",
+    "txt": "Z",
+    "site": "10.spst.no"
+  },
+  {
+    "cname": "b7.spst.no",
+    "txt": "T",
+    "site": "11.spst.no"
+  },
+  {
+    "cname": "63.spst.no",
+    "txt": "w",
+    "site": "12.spst.no"
+  },
+  {
+    "cname": "c2.spst.no",
+    "txt": "k",
+    "site": "13.spst.no"
+  },
+  {
+    "cname": "27.spst.no",
+    "txt": "a",
+    "site": "14.spst.no"
+  },
+  {
+    "cname": "a1.spst.no",
+    "txt": "0",
+    "site": "15.spst.no"
+  },
+  {
+    "cname": "38.spst.no",
+    "txt": "b",
+    "site": "16.spst.no"
+  },
+  {
+    "cname": "e3.spst.no",
+    "txt": "R",
+    "site": "17.spst.no"
+  },
+  {
+    "cname": "bd.spst.no",
+    "txt": "z",
+    "site": "18.spst.no"
+  },
+  {
+    "cname": "5d.spst.no",
+    "txt": "x",
+    "site": "19.spst.no"
+  },
+  {
+    "cname": "2f.spst.no",
+    "txt": "X",
+    "site": "1a.spst.no"
+  },
+  {
+    "cname": "05.spst.no",
+    "txt": "B",
+    "site": "1b.spst.no"
+  },
+  {
+    "cname": "0d.spst.no",
+    "txt": "X",
+    "site": "1c.spst.no"
+  },
+  {
+    "cname": "83.spst.no",
+    "txt": "2",
+    "site": "1d.spst.no"
+  },
+  {
+    "cname": "78.spst.no",
+    "txt": "7",
+    "site": "1e.spst.no"
+  },
+  {
+    "cname": "74.spst.no",
+    "txt": "L",
+    "site": "1f.spst.no"
+  },
+  {
+    "cname": "4b.spst.no",
+    "txt": "7",
+    "site": "20.spst.no"
+  },
+  {
+    "cname": "c4.spst.no",
+    "txt": "s",
+    "site": "21.spst.no"
+  },
+  {
+    "cname": "10.spst.no",
+    "txt": "M",
+    "site": "22.spst.no"
+  },
+  {
+    "cname": "16.spst.no",
+    "txt": "H",
+    "site": "23.spst.no"
+  },
+  {
+    "cname": "33.spst.no",
+    "txt": "p",
+    "site": "24.spst.no"
+  },
+  {
+    "cname": "e2.spst.no",
+    "txt": "I",
+    "site": "25.spst.no"
+  },
+  {
+    "cname": "eb.spst.no",
+    "txt": "r",
+    "site": "26.spst.no"
+  },
+  {
+    "cname": "e5.spst.no",
+    "txt": "v",
+    "site": "27.spst.no"
+  },
+  {
+    "cname": "6f.spst.no",
+    "txt": "o",
+    "site": "28.spst.no"
+  },
+  {
+    "cname": "79.spst.no",
+    "txt": "Y",
+    "site": "29.spst.no"
+  },
+  {
+    "cname": "c6.spst.no",
+    "txt": "V",
+    "site": "2a.spst.no"
+  },
+  {
+    "cname": "d7.spst.no",
+    "txt": "4",
+    "site": "2b.spst.no"
+  },
+  {
+    "cname": "e6.spst.no",
+    "txt": "e",
+    "site": "2c.spst.no"
+  },
+  {
+    "cname": "b1.spst.no",
+    "txt": "2",
+    "site": "2d.spst.no"
+  },
+  {
+    "cname": "ea.spst.no",
+    "txt": "9",
+    "site": "2e.spst.no"
+  },
+  {
+    "cname": "df.spst.no",
+    "txt": "R",
+    "site": "2f.spst.no"
+  },
+  {
+    "cname": "e1.spst.no",
+    "txt": "P",
+    "site": "30.spst.no"
+  },
+  {
+    "cname": "fc.spst.no",
+    "txt": "W",
+    "site": "31.spst.no"
+  },
+  {
+    "cname": "f0.spst.no",
+    "txt": "B",
+    "site": "32.spst.no"
+  },
+  {
+    "cname": "52.spst.no",
+    "txt": "b",
+    "site": "33.spst.no"
+  },
+  {
+    "cname": "f9.spst.no",
+    "txt": "F",
+    "site": "34.spst.no"
+  },
+  {
+    "cname": "d4.spst.no",
+    "txt": "T",
+    "site": "35.spst.no"
+  },
+  {
+    "cname": "1e.spst.no",
+    "txt": "P",
+    "site": "36.spst.no"
+  },
+  {
+    "cname": "d0.spst.no",
+    "txt": "Y",
+    "site": "37.spst.no"
+  },
+  {
+    "cname": "f2.spst.no",
+    "txt": "R",
+    "site": "38.spst.no"
+  },
+  {
+    "cname": "61.spst.no",
+    "txt": "b",
+    "site": "39.spst.no"
+  },
+  {
+    "cname": "09.spst.no",
+    "txt": "P",
+    "site": "3a.spst.no"
+  },
+  {
+    "cname": "88.spst.no",
+    "txt": "W",
+    "site": "3b.spst.no"
+  },
+  {
+    "cname": "71.spst.no",
+    "txt": "y",
+    "site": "3c.spst.no"
+  },
+  {
+    "cname": "bf.spst.no",
+    "txt": "z",
+    "site": "3d.spst.no"
+  },
+  {
+    "cname": "43.spst.no",
+    "txt": "T",
+    "site": "3e.spst.no"
+  },
+  {
+    "cname": "9c.spst.no",
+    "txt": "r",
+    "site": "3f.spst.no"
+  },
+  {
+    "cname": "28.spst.no",
+    "txt": "t",
+    "site": "40.spst.no"
+  },
+  {
+    "cname": "24.spst.no",
+    "txt": "0",
+    "site": "41.spst.no"
+  },
+  {
+    "cname": "3a.spst.no",
+    "txt": "5",
+    "site": "42.spst.no"
+  },
+  {
+    "cname": "ce.spst.no",
+    "txt": "A",
+    "site": "43.spst.no"
+  },
+  {
+    "cname": "23.spst.no",
+    "txt": "B",
+    "site": "44.spst.no"
+  },
+  {
+    "cname": "81.spst.no",
+    "txt": "p",
+    "site": "45.spst.no"
+  },
+  {
+    "cname": "aa.spst.no",
+    "txt": "V",
+    "site": "46.spst.no"
+  },
+  {
+    "cname": "cb.spst.no",
+    "txt": "L",
+    "site": "47.spst.no"
+  },
+  {
+    "cname": "19.spst.no",
+    "txt": "n",
+    "site": "48.spst.no"
+  },
+  {
+    "cname": "c7.spst.no",
+    "txt": "3",
+    "site": "49.spst.no"
+  },
+  {
+    "cname": "04.spst.no",
+    "txt": "F",
+    "site": "4a.spst.no"
+  },
+  {
+    "cname": "dd.spst.no",
+    "txt": "Z",
+    "site": "4b.spst.no"
+  },
+  {
+    "cname": "12.spst.no",
+    "txt": "n",
+    "site": "4c.spst.no"
+  },
+  {
+    "cname": "0a.spst.no",
+    "txt": "7",
+    "site": "4d.spst.no"
+  },
+  {
+    "cname": "7e.spst.no",
+    "txt": "e",
+    "site": "4e.spst.no"
+  },
+  {
+    "cname": "0b.spst.no",
+    "txt": "g",
+    "site": "4f.spst.no"
+  },
+  {
+    "cname": "9e.spst.no",
+    "txt": "c",
+    "site": "50.spst.no"
+  },
+  {
+    "cname": "22.spst.no",
+    "txt": "p",
+    "site": "51.spst.no"
+  },
+  {
+    "cname": "57.spst.no",
+    "txt": "S",
+    "site": "52.spst.no"
+  },
+  {
+    "cname": "a6.spst.no",
+    "txt": "0",
+    "site": "53.spst.no"
+  },
+  {
+    "cname": "ab.spst.no",
+    "txt": "C",
+    "site": "54.spst.no"
+  },
+  {
+    "cname": "2a.spst.no",
+    "txt": "b",
+    "site": "55.spst.no"
+  },
+  {
+    "cname": "bc.spst.no",
+    "txt": "E",
+    "site": "56.spst.no"
+  },
+  {
+    "cname": "5b.spst.no",
+    "txt": "K",
+    "site": "57.spst.no"
+  },
+  {
+    "cname": "0f.spst.no",
+    "txt": "u",
+    "site": "58.spst.no"
+  },
+  {
+    "cname": "ba.spst.no",
+    "txt": "9",
+    "site": "59.spst.no"
+  },
+  {
+    "cname": "ed.spst.no",
+    "txt": "h",
+    "site": "5a.spst.no"
+  },
+  {
+    "cname": "b3.spst.no",
+    "txt": "L",
+    "site": "5b.spst.no"
+  },
+  {
+    "cname": "8c.spst.no",
+    "txt": "6",
+    "site": "5c.spst.no"
+  },
+  {
+    "cname": "34.spst.no",
+    "txt": "e",
+    "site": "5d.spst.no"
+  },
+  {
+    "cname": "4d.spst.no",
+    "txt": "U",
+    "site": "5e.spst.no"
+  },
+  {
+    "cname": "a0.spst.no",
+    "txt": "Z",
+    "site": "5f.spst.no"
+  },
+  {
+    "cname": "76.spst.no",
+    "txt": "1",
+    "site": "60.spst.no"
+  },
+  {
+    "cname": "c5.spst.no",
+    "txt": "0",
+    "site": "61.spst.no"
+  },
+  {
+    "cname": "01.spst.no",
+    "txt": "W",
+    "site": "62.spst.no"
+  },
+  {
+    "cname": "0c.spst.no",
+    "txt": "e",
+    "site": "63.spst.no"
+  },
+  {
+    "cname": "06.spst.no",
+    "txt": "u",
+    "site": "64.spst.no"
+  },
+  {
+    "cname": "d3.spst.no",
+    "txt": "q",
+    "site": "65.spst.no"
+  },
+  {
+    "cname": "25.spst.no",
+    "txt": "j",
+    "site": "66.spst.no"
+  },
+  {
+    "cname": "69.spst.no",
+    "txt": "G",
+    "site": "67.spst.no"
+  },
+  {
+    "cname": "49.spst.no",
+    "txt": "p",
+    "site": "68.spst.no"
+  },
+  {
+    "cname": "3b.spst.no",
+    "txt": "c",
+    "site": "69.spst.no"
+  },
+  {
+    "cname": "ec.spst.no",
+    "txt": "L",
+    "site": "6a.spst.no"
+  },
+  {
+    "cname": "ef.spst.no",
+    "txt": "G",
+    "site": "6b.spst.no"
+  },
+  {
+    "cname": "c3.spst.no",
+    "txt": "V",
+    "site": "6c.spst.no"
+  },
+  {
+    "cname": "32.spst.no",
+    "txt": "B",
+    "site": "6d.spst.no"
+  },
+  {
+    "cname": "f3.spst.no",
+    "txt": "m",
+    "site": "6e.spst.no"
+  },
+  {
+    "cname": "d5.spst.no",
+    "txt": "4",
+    "site": "6f.spst.no"
+  },
+  {
+    "cname": "37.spst.no",
+    "txt": "f",
+    "site": "70.spst.no"
+  },
+  {
+    "cname": "f7.spst.no",
+    "txt": "F",
+    "site": "71.spst.no"
+  },
+  {
+    "cname": "62.spst.no",
+    "txt": "c",
+    "site": "72.spst.no"
+  },
+  {
+    "cname": "31.spst.no",
+    "txt": "k",
+    "site": "73.spst.no"
+  },
+  {
+    "cname": "4a.spst.no",
+    "txt": "R",
+    "site": "74.spst.no"
+  },
+  {
+    "cname": "60.spst.no",
+    "txt": "K",
+    "site": "75.spst.no"
+  },
+  {
+    "cname": "07.spst.no",
+    "txt": "H",
+    "site": "76.spst.no"
+  },
+  {
+    "cname": "d9.spst.no",
+    "txt": "7",
+    "site": "77.spst.no"
+  },
+  {
+    "cname": "e4.spst.no",
+    "txt": "S",
+    "site": "78.spst.no"
+  },
+  {
+    "cname": "1d.spst.no",
+    "txt": "2",
+    "site": "79.spst.no"
+  },
+  {
+    "cname": "f6.spst.no",
+    "txt": "F",
+    "site": "7a.spst.no"
+  },
+  {
+    "cname": "b6.spst.no",
+    "txt": "X",
+    "site": "7b.spst.no"
+  },
+  {
+    "cname": "e0.spst.no",
+    "txt": "O",
+    "site": "7c.spst.no"
+  },
+  {
+    "cname": "65.spst.no",
+    "txt": "0",
+    "site": "7d.spst.no"
+  },
+  {
+    "cname": "6b.spst.no",
+    "txt": "d",
+    "site": "7e.spst.no"
+  },
+  {
+    "cname": "3e.spst.no",
+    "txt": "D",
+    "site": "7f.spst.no"
+  },
+  {
+    "cname": "b4.spst.no",
+    "txt": "N",
+    "site": "80.spst.no"
+  },
+  {
+    "cname": "9b.spst.no",
+    "txt": "S",
+    "site": "81.spst.no"
+  },
+  {
+    "cname": "ae.spst.no",
+    "txt": "a",
+    "site": "82.spst.no"
+  },
+  {
+    "cname": "5e.spst.no",
+    "txt": "J",
+    "site": "83.spst.no"
+  },
+  {
+    "cname": "73.spst.no",
+    "txt": "q",
+    "site": "84.spst.no"
+  },
+  {
+    "cname": "99.spst.no",
+    "txt": "2",
+    "site": "85.spst.no"
+  },
+  {
+    "cname": "de.spst.no",
+    "txt": "s",
+    "site": "86.spst.no"
+  },
+  {
+    "cname": "c1.spst.no",
+    "txt": "d",
+    "site": "87.spst.no"
+  },
+  {
+    "cname": "e7.spst.no",
+    "txt": "y",
+    "site": "88.spst.no"
+  },
+  {
+    "cname": "6d.spst.no",
+    "txt": "L",
+    "site": "89.spst.no"
+  },
+  {
+    "cname": "2e.spst.no",
+    "txt": "q",
+    "site": "8a.spst.no"
+  },
+  {
+    "cname": "44.spst.no",
+    "txt": "n",
+    "site": "8b.spst.no"
+  },
+  {
+    "cname": "7a.spst.no",
+    "txt": "q",
+    "site": "8c.spst.no"
+  },
+  {
+    "cname": "15.spst.no",
+    "txt": "r",
+    "site": "8d.spst.no"
+  },
+  {
+    "cname": "55.spst.no",
+    "txt": "v",
+    "site": "8e.spst.no"
+  },
+  {
+    "cname": "21.spst.no",
+    "txt": "k",
+    "site": "8f.spst.no"
+  },
+  {
+    "cname": "6e.spst.no",
+    "txt": "G",
+    "site": "90.spst.no"
+  },
+  {
+    "cname": "1a.spst.no",
+    "txt": "N",
+    "site": "91.spst.no"
+  },
+  {
+    "cname": "e9.spst.no",
+    "txt": "4",
+    "site": "92.spst.no"
+  },
+  {
+    "cname": "3f.spst.no",
+    "txt": "K",
+    "site": "93.spst.no"
+  },
+  {
+    "cname": "db.spst.no",
+    "txt": "Q",
+    "site": "94.spst.no"
+  },
+  {
+    "cname": "5f.spst.no",
+    "txt": "x",
+    "site": "95.spst.no"
+  },
+  {
+    "cname": "ee.spst.no",
+    "txt": "l",
+    "site": "96.spst.no"
+  },
+  {
+    "cname": "96.spst.no",
+    "txt": "E",
+    "site": "97.spst.no"
+  },
+  {
+    "cname": "7c.spst.no",
+    "txt": "F",
+    "site": "98.spst.no"
+  },
+  {
+    "cname": "39.spst.no",
+    "txt": "h",
+    "site": "99.spst.no"
+  },
+  {
+    "cname": "95.spst.no",
+    "txt": "d",
+    "site": "9a.spst.no"
+  },
+  {
+    "cname": "1c.spst.no",
+    "txt": "N",
+    "site": "9b.spst.no"
+  },
+  {
+    "cname": "4f.spst.no",
+    "txt": "j",
+    "site": "9c.spst.no"
+  },
+  {
+    "cname": "fa.spst.no",
+    "txt": "d",
+    "site": "9d.spst.no"
+  },
+  {
+    "cname": "8e.spst.no",
+    "txt": "w",
+    "site": "9e.spst.no"
+  },
+  {
+    "cname": "87.spst.no",
+    "txt": "K",
+    "site": "9f.spst.no"
+  },
+  {
+    "cname": "26.spst.no",
+    "txt": "K",
+    "site": "a0.spst.no"
+  },
+  {
+    "cname": "cd.spst.no",
+    "txt": "2",
+    "site": "a1.spst.no"
+  },
+  {
+    "cname": "35.spst.no",
+    "txt": "v",
+    "site": "a2.spst.no"
+  },
+  {
+    "cname": "0e.spst.no",
+    "txt": "G",
+    "site": "a3.spst.no"
+  },
+  {
+    "cname": "5c.spst.no",
+    "txt": "a",
+    "site": "a4.spst.no"
+  },
+  {
+    "cname": "d8.spst.no",
+    "txt": "x",
+    "site": "a5.spst.no"
+  },
+  {
+    "cname": "b2.spst.no",
+    "txt": "i",
+    "site": "a6.spst.no"
+  },
+  {
+    "cname": "bb.spst.no",
+    "txt": "L",
+    "site": "a7.spst.no"
+  },
+  {
+    "cname": "3c.spst.no",
+    "txt": "3",
+    "site": "a8.spst.no"
+  },
+  {
+    "cname": "b5.spst.no",
+    "txt": "4",
+    "site": "a9.spst.no"
+  },
+  {
+    "cname": "67.spst.no",
+    "txt": "W",
+    "site": "aa.spst.no"
+  },
+  {
+    "cname": "a9.spst.no",
+    "txt": "P",
+    "site": "ab.spst.no"
+  },
+  {
+    "cname": "70.spst.no",
+    "txt": "4",
+    "site": "ac.spst.no"
+  },
+  {
+    "cname": "8f.spst.no",
+    "txt": "o",
+    "site": "ad.spst.no"
+  },
+  {
+    "cname": "85.spst.no",
+    "txt": "m",
+    "site": "ae.spst.no"
+  },
+  {
+    "cname": "ca.spst.no",
+    "txt": "y",
+    "site": "af.spst.no"
+  },
+  {
+    "cname": "8a.spst.no",
+    "txt": "D",
+    "site": "b0.spst.no"
+  },
+  {
+    "cname": "6a.spst.no",
+    "txt": "e",
+    "site": "b1.spst.no"
+  },
+  {
+    "cname": "d2.spst.no",
+    "txt": "j",
+    "site": "b2.spst.no"
+  },
+  {
+    "cname": "50.spst.no",
+    "txt": "X",
+    "site": "b3.spst.no"
+  },
+  {
+    "cname": "2b.spst.no",
+    "txt": "T",
+    "site": "b4.spst.no"
+  },
+  {
+    "cname": "51.spst.no",
+    "txt": "z",
+    "site": "b5.spst.no"
+  },
+  {
+    "cname": "6c.spst.no",
+    "txt": "C",
+    "site": "b6.spst.no"
+  },
+  {
+    "cname": "59.spst.no",
+    "txt": "p",
+    "site": "b7.spst.no"
+  },
+  {
+    "cname": "98.spst.no",
+    "txt": "J",
+    "site": "b8.spst.no"
+  },
+  {
+    "cname": "02.spst.no",
+    "txt": "i",
+    "site": "b9.spst.no"
+  },
+  {
+    "cname": "40.spst.no",
+    "txt": "L",
+    "site": "ba.spst.no"
+  },
+  {
+    "cname": "c0.spst.no",
+    "txt": "D",
+    "site": "bb.spst.no"
+  },
+  {
+    "cname": "b8.spst.no",
+    "txt": "D",
+    "site": "bc.spst.no"
+  },
+  {
+    "cname": "2c.spst.no",
+    "txt": "V",
+    "site": "bd.spst.no"
+  },
+  {
+    "cname": "8d.spst.no",
+    "txt": "N",
+    "site": "be.spst.no"
+  },
+  {
+    "cname": "8b.spst.no",
+    "txt": "8",
+    "site": "bf.spst.no"
+  },
+  {
+    "cname": "86.spst.no",
+    "txt": "c",
+    "site": "c0.spst.no"
+  },
+  {
+    "cname": "46.spst.no",
+    "txt": "B",
+    "site": "c1.spst.no"
+  },
+  {
+    "cname": "90.spst.no",
+    "txt": "l",
+    "site": "c2.spst.no"
+  },
+  {
+    "cname": "a3.spst.no",
+    "txt": "6",
+    "site": "c3.spst.no"
+  },
+  {
+    "cname": "14.spst.no",
+    "txt": "t",
+    "site": "c4.spst.no"
+  },
+  {
+    "cname": "94.spst.no",
+    "txt": "m",
+    "site": "c5.spst.no"
+  },
+  {
+    "cname": "a8.spst.no",
+    "txt": "2",
+    "site": "c6.spst.no"
+  },
+  {
+    "cname": "fd.spst.no",
+    "txt": "O",
+    "site": "c7.spst.no"
+  },
+  {
+    "cname": "64.spst.no",
+    "txt": "e",
+    "site": "c8.spst.no"
+  },
+  {
+    "cname": "ac.spst.no",
+    "txt": "N",
+    "site": "c9.spst.no"
+  },
+  {
+    "cname": "b0.spst.no",
+    "txt": "9",
+    "site": "ca.spst.no"
+  },
+  {
+    "cname": "30.spst.no",
+    "txt": "Q",
+    "site": "cb.spst.no"
+  },
+  {
+    "cname": "d1.spst.no",
+    "txt": "U",
+    "site": "cc.spst.no"
+  },
+  {
+    "cname": "a5.spst.no",
+    "txt": "j",
+    "site": "cd.spst.no"
+  },
+  {
+    "cname": "68.spst.no",
+    "txt": "o",
+    "site": "ce.spst.no"
+  },
+  {
+    "cname": "3d.spst.no",
+    "txt": "w",
+    "site": "cf.spst.no"
+  },
+  {
+    "cname": "f8.spst.no",
+    "txt": "n",
+    "site": "d0.spst.no"
+  },
+  {
+    "cname": "da.spst.no",
+    "txt": "G",
+    "site": "d1.spst.no"
+  },
+  {
+    "cname": "2d.spst.no",
+    "txt": "U",
+    "site": "d2.spst.no"
+  },
+  {
+    "cname": "1b.spst.no",
+    "txt": "Q",
+    "site": "d3.spst.no"
+  },
+  {
+    "cname": "56.spst.no",
+    "txt": "E",
+    "site": "d4.spst.no"
+  },
+  {
+    "cname": "58.spst.no",
+    "txt": "z",
+    "site": "d5.spst.no"
+  },
+  {
+    "cname": "dc.spst.no",
+    "txt": "a",
+    "site": "d6.spst.no"
+  },
+  {
+    "cname": "72.spst.no",
+    "txt": "w",
+    "site": "d7.spst.no"
+  },
+  {
+    "cname": "08.spst.no",
+    "txt": "p",
+    "site": "d8.spst.no"
+  },
+  {
+    "cname": "36.spst.no",
+    "txt": "x",
+    "site": "d9.spst.no"
+  },
+  {
+    "cname": "54.spst.no",
+    "txt": "9",
+    "site": "da.spst.no"
+  },
+  {
+    "cname": "80.spst.no",
+    "txt": "Y",
+    "site": "db.spst.no"
+  },
+  {
+    "cname": "7b.spst.no",
+    "txt": "P",
+    "site": "dc.spst.no"
+  },
+  {
+    "cname": "18.spst.no",
+    "txt": "I",
+    "site": "dd.spst.no"
+  },
+  {
+    "cname": "00.spst.no",
+    "txt": "u",
+    "site": "de.spst.no"
+  },
+  {
+    "cname": "29.spst.no",
+    "txt": "k",
+    "site": "df.spst.no"
+  },
+  {
+    "cname": "fb.spst.no",
+    "txt": "e",
+    "site": "e0.spst.no"
+  },
+  {
+    "cname": "97.spst.no",
+    "txt": "v",
+    "site": "e1.spst.no"
+  },
+  {
+    "cname": "b9.spst.no",
+    "txt": "q",
+    "site": "e2.spst.no"
+  },
+  {
+    "cname": "9a.spst.no",
+    "txt": "Q",
+    "site": "e3.spst.no"
+  },
+  {
+    "cname": "03.spst.no",
+    "txt": "g",
+    "site": "e4.spst.no"
+  },
+  {
+    "cname": "4e.spst.no",
+    "txt": "=",
+    "site": "e5.spst.no"
+  },
+  {
+    "cname": "4c.spst.no",
+    "txt": "W",
+    "site": "e6.spst.no"
+  },
+  {
+    "cname": "a7.spst.no",
+    "txt": "7",
+    "site": "e7.spst.no"
+  },
+  {
+    "cname": "92.spst.no",
+    "txt": "j",
+    "site": "e8.spst.no"
+  },
+  {
+    "cname": "77.spst.no",
+    "txt": "M",
+    "site": "e9.spst.no"
+  },
+  {
+    "cname": "82.spst.no",
+    "txt": "r",
+    "site": "ea.spst.no"
+  },
+  {
+    "cname": "66.spst.no",
+    "txt": "a",
+    "site": "eb.spst.no"
+  },
+  {
+    "cname": "7d.spst.no",
+    "txt": "k",
+    "site": "ec.spst.no"
+  },
+  {
+    "cname": "slutt.spst.no",
+    "txt": "G",
+    "site": "ed.spst.no"
+  },
+  {
+    "cname": "c8.spst.no",
+    "txt": "1",
+    "site": "ee.spst.no"
+  },
+  {
+    "cname": "af.spst.no",
+    "txt": "1",
+    "site": "ef.spst.no"
+  },
+  {
+    "cname": "5a.spst.no",
+    "txt": "b",
+    "site": "f0.spst.no"
+  },
+  {
+    "cname": "7f.spst.no",
+    "txt": "w",
+    "site": "f1.spst.no"
+  },
+  {
+    "cname": "cc.spst.no",
+    "txt": "9",
+    "site": "f2.spst.no"
+  },
+  {
+    "cname": "89.spst.no",
+    "txt": "4",
+    "site": "f3.spst.no"
+  },
+  {
+    "cname": "d6.spst.no",
+    "txt": "4",
+    "site": "f4.spst.no"
+  },
+  {
+    "cname": "ad.spst.no",
+    "txt": "b",
+    "site": "f5.spst.no"
+  },
+  {
+    "cname": "84.spst.no",
+    "txt": "J",
+    "site": "f6.spst.no"
+  },
+  {
+    "cname": "9d.spst.no",
+    "txt": "O",
+    "site": "f7.spst.no"
+  },
+  {
+    "cname": "ff.spst.no",
+    "txt": "z",
+    "site": "f8.spst.no"
+  },
+  {
+    "cname": "be.spst.no",
+    "txt": "Z",
+    "site": "f9.spst.no"
+  },
+  {
+    "cname": "f4.spst.no",
+    "txt": "N",
+    "site": "fa.spst.no"
+  },
+  {
+    "cname": "9f.spst.no",
+    "txt": "u",
+    "site": "fb.spst.no"
+  },
+  {
+    "cname": "1f.spst.no",
+    "txt": "M",
+    "site": "fc.spst.no"
+  },
+  {
+    "cname": "a2.spst.no",
+    "txt": "8",
+    "site": "fd.spst.no"
+  },
+  {
+    "cname": "e8.spst.no",
+    "txt": "I",
+    "site": "fe.spst.no"
+  },
+  {
+    "cname": "f1.spst.no",
+    "txt": "s",
+    "site": "ff.spst.no"
+  }
+]
